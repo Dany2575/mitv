@@ -121,3 +121,5 @@ https://micanal.ovh/livestreams/142.RZYR3NWFIHKH.m3u8
 https://cdn.streamhispanatv.net:3652/live/totovisiongtlive.m3u8
 #EXTINF:-1 tvg-id="319359" tvg-name="Aurora Media" tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/aurora-media-films.webp", Aurora Media
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
+#EXTINF:-1 tvg-id="319359" tvg-name="Canal 13 Esquipulas" tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/canal-13-esquipulas.webp", Canal 13 Esquipulas
+https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
