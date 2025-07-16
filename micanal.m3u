@@ -1,4 +1,6 @@
-#EXTM3U 
+#EXTM3U
+#EXTINF:-1 tvg-id="319374" tvg-name="Nimtv" tvg-logo="https://emisorasgt.com/wp-content/uploads/2023/04/nim-tv.webp", Nimtv
+https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-id="319374" tvg-name="Adult Swim LA" tvg-logo="https://i.ibb.co/k3hgRpj/logo-Adult-Swim.png", Adult Swim LA
 http://181.119.86.1:8000/play/a019?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314939" tvg-name="Wow movies" tvg-logo="https://gia.tv/streams/logo/208301.png?1752639579", Wow Movies
